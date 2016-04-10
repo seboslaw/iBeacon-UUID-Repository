@@ -8,6 +8,7 @@ Apple AirLocate  | E2C56DB5-dFFB-48D2-B060-D0F5A71096E0 | [link](http://www.beac
 Apple AirLocate | E2C56DB5-dFFB-48D2-B060-D0F5A71096E0 | [link](http://www.beacongo.com/common-ibeacon-uuids)
 Apple AirLocate | 5A4BCFCE-174E-4BAC-A814-092E77F6B7E5 |  [link](http://www.beacongo.com/common-ibeacon-uuids)
 Apple AirLocate | 74278BDA-B644-4520-8F0C-720EAF059935 |  [link](http://www.beacongo.com/common-ibeacon-uuids)
+Avvel International | EBEFD083-70A2-47C8-9837-E7B5634DF524 | [link](http://www.avvel.co.uk/configuring-the-uuid)
 BeaconGo Portable | E6BF275E-0BB3-43E5-BF88-517F13A5A162 |  [link](http://www.beacongo.com/common-ibeacon-uuids)
 BeaconGo USB | F6322B94-D58A-F34E-B1A5-17C69CFBE32E |  [link](http://www.beacongo.com/common-ibeacon-uuids)
 Beacon Inside | F0018B9B-7509-4C31-A905-1A27D39C003C | [link](https://github.com/sensorberg-dev/ios-sdk/blob/master/SensorbergSDK/SensorbergSDK.m)
