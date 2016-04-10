@@ -15,6 +15,7 @@ BlueUp Default | ACFD065E-C3C0-11E3-9BBE-1A514932AC01 |  [link](http://www.beaco
 Estimote Beacon Default | B9407F30-F5F8-466E-AFF9-25556B57FE6D |  [link](http://www.beacongo.com/common-ibeacon-uuids)
 Estimote Virtual Beacon (iOS) | 8492E75F-4FD6-469D-B132-043FE94921D8 | [link](http://www.beacongo.com/common-ibeacon-uuids)
 Estimote Virtual Beacon (Mac) | 08D4A950-80F0-4D42-A14B-D53E063516E6 |  [link](http://www.beacongo.com/common-ibeacon-uuids)
+Glimworm Beacons| 74278bda-b644-4520-8f0c-720eaf059935 | [link](https://github.com/jonathanrcarter/glimworm-beacons-manager-iphone/blob/master/HiBeacons/NATViewController.m)
 Kontakt.io Beacon Default | F7826DA6-4FA2-4E98-8024-BC5B71E0893E |  [link](http://www.beacongo.com/common-ibeacon-uuids)
 KST Particle | 8AEFB031-6C32-486F-825B-E26FA193487D | [link](http://kstechnologies.com/shop/particle)
 Radius Network | 52414449-5553-4E45-5457-4F524B53434F |  [link](http://www.beacongo.com/common-ibeacon-uuids)
